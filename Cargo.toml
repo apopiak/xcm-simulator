@@ -2,4 +2,5 @@
 members = [
     "xcm-simulator",
     "example",
+	"acala-statemint",
 ]
